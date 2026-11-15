@@ -1,0 +1,11 @@
+{
+	"geode": "5.11.0",
+	"gd": {
+		"win": "*"
+	},
+	"id": "greybars.white-placeholder",
+	"name": "White Placeholder Text",
+	"version": "v1.0.0",
+	"developer": "GreyBars",
+	"description": "Makes the placeholder text in the level name and description boxes white."
+}
