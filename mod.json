@@ -4,8 +4,16 @@
 		"win": "*"
 	},
 	"id": "greybars.white-placeholder",
-	"name": "White Placeholder Text",
-	"version": "v1.0.0",
+	"name": "Grey Bars Tweaks",
+	"version": "v1.1.0",
 	"developer": "GreyBars",
-	"description": "Makes the placeholder text in the level name and description boxes white."
+	"description": "White placeholder text on the level edit screen, and grey song boxes in the Jukebox popup.",
+	"settings": {
+		"jukebox-box-color": {
+			"type": "color",
+			"name": "Jukebox song box color",
+			"description": "Color of the song boxes in the Jukebox popup (the ones that used to be brown).",
+			"default": "#3E3E3E"
+		}
+	}
 }
